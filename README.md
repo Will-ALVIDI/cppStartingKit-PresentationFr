@@ -1,7 +1,7 @@
 C++ Starting Kit pour Sublime Text
 ==================================
 
-**Back to the [english version](https://github.com/kodLite/cppStartingKit-Guide)**
+**Read the Presentation [in english](https://github.com/kodLite/cppStartingKit-Guide)**
 
 ## Caractéristiques
 * Prise en charge combiné et amélioré de la coloration syntaxique du C,C++ et C++11.
